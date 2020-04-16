@@ -1,2 +1,3 @@
-# NLP100-2020
-NLP 100 Exercise 2020
+# 言語処理100本ノック 2020
+
+https://nlp100.github.io/ja/
